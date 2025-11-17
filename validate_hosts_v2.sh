@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Versiunea 2: scriptul primește ca argument un nume de fișier
 
 if [ $# -eq 0 ]; then
     echo "Utilizare: $0 <fisier_hosts>"
